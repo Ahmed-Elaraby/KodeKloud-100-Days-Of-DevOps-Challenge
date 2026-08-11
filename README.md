@@ -13,5 +13,5 @@ away from each challenge.
 - [x] Day 001 — Linux User Setup with Non-interactive Shell
 - [x] Day 002 — Temporary User Setup with Expiry Date
 - [x] Day 003 — Secure SSH Root Access
-- [x] Day 4: Script Execution Permissions
+- [x] Day 004 — Script Execution Permissions
 
