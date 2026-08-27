@@ -14,4 +14,11 @@ away from each challenge.
 - [x] Day 002 — Temporary User Setup with Expiry Date
 - [x] Day 003 — Secure SSH Root Access
 - [x] Day 004 — Script Execution Permissions
-
+- [x] Day 005 — Install and Configuration Selinux
+- [x] Day 006 — Setup a Cron Job
+- [x] Day 007 — Linux SSH Automation
+- [x] Day 008 — Setup Ansible
+- [x] Day 009 — Debugging MariaDB Issues
+- [x] Day 010 — Create a BASH Script
+- [x] Day 011 — Install and Setup Tomcat Server
+- [x] Day 012 — Linux Network Services
